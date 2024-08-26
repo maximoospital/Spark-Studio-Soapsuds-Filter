@@ -1,8 +1,5 @@
-<br/>
-<p align="center">
   <h3 align="center">Soap Foam/Suds Filter Template
 (for Spark Studio)</h3>
-</p>
 
 ![Contributors](https://img.shields.io/github/contributors/maximoospital/Spark-Studio-Branded-Randomizer-Filter?color=dark-green) ![Forks](https://img.shields.io/github/forks/maximoospital/Spark-Studio-Branded-Randomizer-Filter?style=social) ![Stargazers](https://img.shields.io/github/stars/maximoospital/Spark-Studio-Branded-Randomizer-Filter?style=social) ![Issues](https://img.shields.io/github/issues/maximoospital/Spark-Studio-Branded-Randomizer-Filter) ![License](https://img.shields.io/github/license/maximoospital/Spark-Studio-Branded-Randomizer-Filter) 
 
@@ -18,7 +15,7 @@
 
 ## About The Project
 
-![Screen Shot](https://i.imgur.com/SPkIe9V.png)
+![Screen Shot](https://i.imgur.com/g1RMfNQ.gif)
 
 An animated 3d soap foam filter, featuring 8 different styles users can switch, animated bubbles and overlay, a placeholder for a branded logo, and interactions including head shaking and mouth opening.
 
