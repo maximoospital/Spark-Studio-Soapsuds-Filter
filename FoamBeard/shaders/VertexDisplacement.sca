@@ -1,0 +1,33 @@
+precision highp float;
+using namespace std;
+
+void main(Texture2d tex, vec3 frequency, float dist, vec2 timeoffset, out vec4 Position, out vec4 Color) {
+
+  float time = getTime();
+  
+  // Get the normal
+  vec2 uv = getVertexTexCoord();
+  vec3 N = getVertexNormal();
+  vec4 position = getVertexPosition();
+
+  // How much to distort
+  float distortionAmount = dist;
+
+  // Some time ofsets
+  vec3 time3 = vec3(time, time*timeoffset.x, time*timeoffset.y);
+
+  // Some frequency offsets 
+  vec3 freq = frequency;
+
+  // Move the vertex Position along it's normal on a sine
+  // There's no right way to do this, I just made up this equation
+  position.xyz += N * sin(position.yzx * freq + time3) * distortionAmount;
+
+  // Output the position we just calculated
+  Position = getModelViewProjectionMatrix() * position;
+
+
+  // Color it with the Normal
+  vec4 col = tex.sample(uv);
+  Color = col;
+}

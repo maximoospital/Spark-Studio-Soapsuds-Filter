@@ -1,0 +1,77 @@
+{
+  "modelName": "defaultMaterial",
+  "name": "Persona0",
+  "identifier": "defaultMaterial:85386-99b90c5b-3c69-4202-b2a0-9a2a79db731c",
+  "alphaTestEnabled": false,
+  "alphaTestThreshold": 1,
+  "blendMode": "associative_alpha",
+  "colorEncoding": "linear",
+  "cullMode": "back",
+  "diffuseFactor": "0xffffffff",
+  "diffuseTextureName": "cameraTexture:160109-50cfa6f6-f286-4f03-bb45-cbc559087072",
+  "diffuseTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "doubleSided": false,
+  "emissiveEnabled": false,
+  "emissiveFactor": "0xff000000",
+  "emissiveTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "importIssues": {},
+  "invertMultiply": false,
+  "isDiffuseTextureIdentifierEnabled": true,
+  "isEmissiveTextureIdentifierEnabled": false,
+  "isMultiplyTextureIdentifierEnabled": true,
+  "isNormalTextureIdentifierEnabled": false,
+  "isReflectiveTextureIdentifierEnabled": false,
+  "isSpecularTextureIdentifierEnabled": false,
+  "lightingEnabled": false,
+  "multiplyMode": "alpha_only",
+  "multiplyTextureName": "personSegmentationTexture:11871-3a904f09-ec7f-42b6-99a1-8270b2c58c15",
+  "multiplyTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "normalTextureScale": 1,
+  "normalTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "readDepth": false,
+  "reflectiveTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "shininessFactor": 1,
+  "specularTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "transparency": 0.07272727272727171,
+  "writeDepth": false,
+  "writesToColorBufferAlpha": true,
+  "writesToColorBufferBlue": true,
+  "writesToColorBufferGreen": true,
+  "writesToColorBufferRed": true
+}

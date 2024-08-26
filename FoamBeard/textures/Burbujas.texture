@@ -1,0 +1,42 @@
+{
+  "modelName": "texture",
+  "name": "Burbujas",
+  "identifier": "texture:9429-3a904f09-ec7f-42b6-99a1-8270b2c58c15",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "36467956a485aee8da4f731685e904d7",
+  "assetLocator": "textures/Burbujas.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:32746-3a904f09-ec7f-42b6-99a1-8270b2c58c15",
+    "textureExportConfig:33212-3a904f09-ec7f-42b6-99a1-8270b2c58c15",
+    "textureExportConfig:33680-3a904f09-ec7f-42b6-99a1-8270b2c58c15"
+  ],
+  "filter": "bilinear",
+  "folder": "",
+  "hasOfflineMipmaps": false,
+  "height": 627,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 640,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "36467956a485aee8da4f731685e904d7",
+      "colorCount": 7158,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 8.342765183458067,
+      "pixelsHigh": 627,
+      "pixelsWide": 640
+    }
+  ]
+}
