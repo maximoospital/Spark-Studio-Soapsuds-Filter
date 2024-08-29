@@ -15,7 +15,7 @@
 
 ## About The Project
 
-![Screen Shot](https://i.imgur.com/g1RMfNQ.gif)
+<img width="50%" style="width:50%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNlNzFjaDNvM204aHFrcDhxdmwxemJwaG96ZXNudmRzbW9rMmFveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XBqBQsNgRxK8Vy966N/giphy.gif">
 
 An animated 3d soap foam filter, featuring 8 different styles users can switch, animated bubbles and overlay, a placeholder for a branded logo, and interactions including head shaking and mouth opening.
 
